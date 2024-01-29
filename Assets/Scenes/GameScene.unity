@@ -942,7 +942,7 @@ PrefabInstance:
     - target: {fileID: 1837008088971099813, guid: 27399f4bca1ffda4f83715131cdad7c0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.08
+      value: 1.29
       objectReference: {fileID: 0}
     - target: {fileID: 1837008088971099813, guid: 27399f4bca1ffda4f83715131cdad7c0,
         type: 3}
@@ -952,7 +952,7 @@ PrefabInstance:
     - target: {fileID: 1837008088971099813, guid: 27399f4bca1ffda4f83715131cdad7c0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.45
+      value: 0.30999994
       objectReference: {fileID: 0}
     - target: {fileID: 1837008088971099813, guid: 27399f4bca1ffda4f83715131cdad7c0,
         type: 3}
@@ -989,6 +989,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6964789703379394083, guid: 27399f4bca1ffda4f83715131cdad7c0,
+        type: 3}
+      propertyPath: kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: b7395bfb0a5b7c44097a8f9d0adab4ce,
+        type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1010,7 +1016,7 @@ PrefabInstance:
     - target: {fileID: 1837008088971099813, guid: 27399f4bca1ffda4f83715131cdad7c0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.4
+      value: -0.39
       objectReference: {fileID: 0}
     - target: {fileID: 1837008088971099813, guid: 27399f4bca1ffda4f83715131cdad7c0,
         type: 3}
@@ -1020,7 +1026,7 @@ PrefabInstance:
     - target: {fileID: 1837008088971099813, guid: 27399f4bca1ffda4f83715131cdad7c0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.45
+      value: 0.31
       objectReference: {fileID: 0}
     - target: {fileID: 1837008088971099813, guid: 27399f4bca1ffda4f83715131cdad7c0,
         type: 3}
@@ -1057,6 +1063,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6964789703379394083, guid: 27399f4bca1ffda4f83715131cdad7c0,
+        type: 3}
+      propertyPath: tomatoPrefab
+      value: 
+      objectReference: {fileID: 3286932053892184602, guid: 4da16ebc10b9a014fa940d6e9599329d,
+        type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
