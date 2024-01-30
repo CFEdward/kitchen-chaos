@@ -820,6 +820,18 @@ Transform:
   - {fileID: 573031362}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1643316863 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6964789703379394083, guid: 27399f4bca1ffda4f83715131cdad7c0,
+    type: 3}
+  m_PrefabInstance: {fileID: 2068149562}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bf06b3f09d3e074cb125f9339b108da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2000501389
 GameObject:
   m_ObjectHideFlags: 0
@@ -1065,10 +1077,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6964789703379394083, guid: 27399f4bca1ffda4f83715131cdad7c0,
         type: 3}
+      propertyPath: testing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6964789703379394083, guid: 27399f4bca1ffda4f83715131cdad7c0,
+        type: 3}
       propertyPath: tomatoPrefab
       value: 
       objectReference: {fileID: 3286932053892184602, guid: 4da16ebc10b9a014fa940d6e9599329d,
         type: 3}
+    - target: {fileID: 6964789703379394083, guid: 27399f4bca1ffda4f83715131cdad7c0,
+        type: 3}
+      propertyPath: secondClearCounter
+      value: 
+      objectReference: {fileID: 1643316863}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
